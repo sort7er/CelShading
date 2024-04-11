@@ -43,8 +43,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _Compare: 0
-    - _Rotation: 0.92
+    - _Rotation: 1.78
     - _Strength: 1
-    - _Tilling: 46.63
+    - _Tilling: 11.16
     m_Colors: []
   m_BuildTextureStacks: []
