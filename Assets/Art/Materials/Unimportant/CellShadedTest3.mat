@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CellShadedTest3
+  m_Shader: {fileID: -6465566751694194690, guid: ed2cc424d118d814b8b4c5f9dadd6c45,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _ADDITIONAL_LIGHTS
+  - _ADDITIONAL_LIGHT_SHADOWS
+  - _MAIN_LIGHT_SHADOWS
+  - _SHADOWS_SOFT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RampTexture:
+        m_Texture: {fileID: 2800000, guid: 3ef509a4ffcf69642a8287a939ad952d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RampTextureSpecular:
+        m_Texture: {fileID: 2800000, guid: 9fb4228864ae94a4cbf148df04b4a3ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_164d622794184521b8888a930f4cf32e_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3ef509a4ffcf69642a8287a939ad952d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_bdbdf6b80aa54339bf252df16461c3fe_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 3ef509a4ffcf69642a8287a939ad952d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SmoothnessMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_2afde246d31c41d69c1a9f73bc0a63a7_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: fb73f994e4c912e41a57caf8324b68f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_892193f6e6444f119061f227f3088a48_Out_0_Texture2D:
+        m_Texture: {fileID: 2800000, guid: fb73f994e4c912e41a57caf8324b68f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ADDITIONAL_LIGHTS: 1
+    - _ADDITIONAL_LIGHTS_SHADOWS: 0
+    - _ADDITIONAL_LIGHT_SHADOWS: 1
+    - _BacklightAmount: 1.5
+    - _Edge: 0
+    - _Edge2: 0.01
+    - _EdgeDiffuse: 0
+    - _EdgeDistanceAttenuation: 0
+    - _EdgeRim: 0
+    - _EdgeRimOffset: 0
+    - _EdgeShadowAttenuation: 0
+    - _EdgeSpecular: 0
+    - _EdgeSpecularOffset: 0
+    - _Emission: 1
+    - _Glossiness: 22.59
+    - _MAIN_LIGHT_SHADOWS: 1
+    - _MAIN_LIGHT_SHADOWS_CASCADE: 0
+    - _MAIN_LIGTH_SHADOW_CASCADE: 0
+    - _Multiply: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RimAmount: 0.599
+    - _RimThreshold: 0.367
+    - _SHADOWS_SOFT: 1
+    - _Smoothness: 0.78
+    - _SpecuarDotDensity: 150
+    - _SpecularDotSize: 0.35
+    - _SpecularRotation: 3.67
+    - _SpecularTilling: 45
+    m_Colors:
+    - _AmbientColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Color: {r: 0.7490197, g: 0.34954253, b: 0, a: 1}
+    - _DiffuseColor: {r: 1, g: 0.95059866, b: 0.0990566, a: 1}
+    - _MainColor: {r: 0, g: 0.6701977, b: 1, a: 1}
+    - _Random: {r: 1, g: 0.979561, b: 0, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 0}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Vector2: {r: 0, g: 1, b: 0, a: 0}
+    - _Vector2_1: {r: 0, g: 116.15, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &6920372230103155056
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
