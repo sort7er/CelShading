@@ -127,7 +127,7 @@ Material:
     - _Emission: 1
     - _EnvironmentReflections: 1
     - _GlossMapScale: 0
-    - _Glossiness: 14.17
+    - _Glossiness: 51.13
     - _GlossyReflections: 0
     - _MAIN_LIGHT_SHADOWS: 1
     - _MAIN_LIGTH_SHADOW_CASCADE: 1
