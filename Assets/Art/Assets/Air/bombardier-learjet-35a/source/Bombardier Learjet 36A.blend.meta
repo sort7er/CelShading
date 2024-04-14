@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 8895c5d71f1a8cb4796a9ca84f6a3640
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AC Dark
+    second: {fileID: 2100000, guid: 0f6fd62b644d7b644a8bbe77f48872f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ADI
+    second: {fileID: 2100000, guid: e69cfbdf4b969884384cff690ffcadfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Airspeed Indicator
+    second: {fileID: 2100000, guid: 1cfecb13cf252204eb4044ff8ac1d684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Altimeter
+    second: {fileID: 2100000, guid: b7db57706958dd94fb549a643806ef49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antenna Metal
+    second: {fileID: 2100000, guid: c07d6cd990dc58a48ad249a401750c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antenna Metal Glossy
+    second: {fileID: 2100000, guid: 28ae37496c9bbd34692956c49e2e7946, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Metal
+    second: {fileID: 2100000, guid: abe6e6910ca25834b8d9d0ff229c980f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Metal Dials
+    second: {fileID: 2100000, guid: 7d6d3beaa325daa438258182bae10f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic
+    second: {fileID: 2100000, guid: d042bcc7c334d9f4297118cdaedaa3a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Plastic Dash
+    second: {fileID: 2100000, guid: 6cde1acf3fdb02844982019c6590b749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarpetTwistNatural001_4K
+    second: {fileID: 2100000, guid: a43d2531586627f498262b50d10d363d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clear Glass
+    second: {fileID: 2100000, guid: 1fefb562281b22549adeb0466aaae635, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit Metal
+    second: {fileID: 2100000, guid: 7e557cfa3b67298459916293a54fb658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper
+    second: {fileID: 2100000, guid: 5c678ffeb7a14e045929d620ef5a287e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crimson Red
+    second: {fileID: 2100000, guid: e0673e6856f0dd14bba4c36ec3cef535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Metal
+    second: {fileID: 2100000, guid: 243fd395dea931847a4b94cdfb5b5622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Metal Gloss
+    second: {fileID: 2100000, guid: a8cea73caed796e4dbd80f013d6ca179, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Darker Metal
+    second: {fileID: 2100000, guid: 4bb7780f252967745a2ee2a840fc14fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dash Detail 4
+    second: {fileID: 2100000, guid: d3dc0c500afef5a47a2c80d861603ca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dash2
+    second: {fileID: 2100000, guid: 77717ef04fe1c0542b34bef48f66db05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deep Orange Glass Glow
+    second: {fileID: 2100000, guid: 0fed56068f32b254e8969ef752e578a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deicing Rings
+    second: {fileID: 2100000, guid: 839a5fec648125a4c91e0b18214adbac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dials 3 (2)
+    second: {fileID: 2100000, guid: 89abb60041ff5794a8f431cd7a9c0d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Digital Clock
+    second: {fileID: 2100000, guid: af3b0d7da1e07be4bbd36aec7ee045db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Engine Axle
+    second: {fileID: 2100000, guid: 6a59319428edcf349b036af162ac5398, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FabricDenim003_3K
+    second: {fileID: 2100000, guid: 7353e60326b11e34189357419f31757f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FabricFleece001_3K
+    second: {fileID: 2100000, guid: 12124a477243c6f4d9da485a53330515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FabricFleece001_3K Beige
+    second: {fileID: 2100000, guid: de49b95439ef890479fd54f5932bcaa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fan Blades
+    second: {fileID: 2100000, guid: 11970810d2d3b4c40b40bc02c0111378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuselage
+    second: {fileID: 2100000, guid: 94ae81948e449a146bc5a90c18523fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuselage Blue
+    second: {fileID: 2100000, guid: 27a09d794d7ec6240a6eabb0beacd6d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuselage Door Lower
+    second: {fileID: 2100000, guid: e3e36db29fd40234fb4bac83c0bd0a2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuselage Door Upper
+    second: {fileID: 2100000, guid: 2d879b4d012442640838dbe9fb779bb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuselage Nacelle
+    second: {fileID: 2100000, guid: 3f9299996a5085545968af0d2ce09a4c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuselage RudderPaint
+    second: {fileID: 2100000, guid: 843407b6c60bd064680559ac3c09d3e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fuselage2
+    second: {fileID: 2100000, guid: c1c84e2e6cf87b347ac10bc3925aa4e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 58333524ade130f4bac6a4715db5400e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy Black
+    second: {fileID: 2100000, guid: 587a22974a4bdf54babecaf728159b88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy Black Glass
+    second: {fileID: 2100000, guid: a88ac7af1535a234e84220a5ad037d3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy Red
+    second: {fileID: 2100000, guid: 556fc5b08678a704dad2f5fd23be0d7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gray
+    second: {fileID: 2100000, guid: 2f5e635058b85d743b3e61db0022cae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gray Plastic
+    second: {fileID: 2100000, guid: b4433fd22e2122f40be83db093ba482f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green Glass
+    second: {fileID: 2100000, guid: ff85250dab7a4bf4b9eb97ee82b5af62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior Metal
+    second: {fileID: 2100000, guid: ec4d7c53a8f93c8448a88e8d622a5dcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Landing Gear Metal
+    second: {fileID: 2100000, guid: d1f2dfad2ed59cd48beb47cfe8c69099, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Landing Gear Shaft
+    second: {fileID: 2100000, guid: 767f538bca5393f42b36f09253c138fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather Black
+    second: {fileID: 2100000, guid: 0f3e6ce61205ff843825c626613beb62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather Brown
+    second: {fileID: 2100000, guid: 14db14aefc77b674fa92a2815c11732d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather2
+    second: {fileID: 2100000, guid: 65e72ef7a06f5e047a6092f72f42cc3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: b9268ac93d9e5304c859c2ab60e88e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nacelle Inside
+    second: {fileID: 2100000, guid: 7936218f40a8a4b40bfeb92ed7cb4ba1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nose Door L
+    second: {fileID: 2100000, guid: e38cf7c9cebb3274fb1e3cb8225b22b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nose Door R
+    second: {fileID: 2100000, guid: b72da335a9df6214184a5bbeb515cb22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: aa509da4bc8c7464d9a808c769cca502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange Clear
+    second: {fileID: 2100000, guid: b1590811af09fdc478336e722ccc1744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange Glass Glow
+    second: {fileID: 2100000, guid: 307a580efd6796c47a2b84cfa86f838e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Glass
+    second: {fileID: 2100000, guid: 6dfef032c88ec4b46a285881a1d2c1f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red Glass Glow
+    second: {fileID: 2100000, guid: 577944ff18303624895503127a687c43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber
+    second: {fileID: 2100000, guid: 91c408a1801f26749bbfe5e397c4fba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sky Blue
+    second: {fileID: 2100000, guid: 49e8577114c19564085aaf8d92fd754c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail Texture
+    second: {fileID: 2100000, guid: 52f44c25d5134c54b9bdacc0d6cdc84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Throttle White
+    second: {fileID: 2100000, guid: 2c6d8b7aa9952af4a8f3ffbfef0e8d8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Titanium
+    second: {fileID: 2100000, guid: d36239acb5de1e74996f0487c28cb6e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Titanium Burnt
+    second: {fileID: 2100000, guid: f9220898ac2321b41b5cfe1978bac7c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Two Dials
+    second: {fileID: 2100000, guid: 857a0845b0d2af34d96a3dd2ec4a5bf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VOR
+    second: {fileID: 2100000, guid: aca11ab168afbb243939b813a8d71646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VSI
+    second: {fileID: 2100000, guid: 8cb44b4eb88aad2428f1248cc384f84d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Weather Radar
+    second: {fileID: 2100000, guid: a6d76bc70e902dc468e661eb32d76e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel Metal
+    second: {fileID: 2100000, guid: 123dd6bffa4aeb541823b90cc0e90309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wingpod Paint
+    second: {fileID: 2100000, guid: 16ecd938b9c5e1a4ca816e85a2b975b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire
+    second: {fileID: 2100000, guid: e017f613fc3276e4ba2f39de6e1ea7cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodFineDark
+    second: {fileID: 2100000, guid: 924d05671cb69d54d83755aea605275d, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
